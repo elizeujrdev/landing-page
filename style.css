@@ -162,7 +162,6 @@ body{
     }
     .home-img{
         width: 80%;
-        position: absolute;
-        top: 65%;
+        position: relative;
     }
 }
